@@ -1,0 +1,20 @@
+# Ignore compiled binaries and object files
+*.o
+*.ko
+*.mod.c
+*.mod
+*.cmd
+.modules
+*.order
+*.symvers
+
+dmesg.log
+*.log
+*.tmp
+
+*.swp
+*.swo
+*.bak
+*~
+
+/build/
